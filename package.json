@@ -1,0 +1,18 @@
+{
+  "name": "element-editor",
+  "description": "element online editor",
+  "version": "1.0.0",
+  "author": "kooboy_li <kooboy_li@163.com>",
+  "dependencies": {
+    "@types/jquery": "3.3.0",
+    "del": "3.0.0",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-uglify": "3.0.0",
+    "gulp-watch": "5.0.0",
+    "magix-combine": "^3.8.8",
+    "magix-gallery": "2.0.6",
+    "typescript": "2.7.2"
+  },
+  "private": true
+}

@@ -1,0 +1,12 @@
+.tmp_*
+.project
+*.idea
+.DS_Store
+node_modules
+
+# Sublime Project files
+*.sublime-*
+src
+build
+tmpl
+types
